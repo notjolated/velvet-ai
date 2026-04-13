@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# First Vibe-Coded Project
 
-TODO: Document your project here
+Coming Soom
